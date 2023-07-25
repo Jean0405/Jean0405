@@ -1,13 +1,12 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Keanon Jeanpierre Angarita Olarte</h1>
 <h3 align="center">🌠 I am a 20 year old Colombian young man who is passionate about coding and immersed in Full-Stack development (Although my favorite is the Back-End 😝), which I am constantly learning. My focuses are Javascript, Node.js with Express and SQL Databases.</h3>
 
 - 🌱 I'm deepening my knowledge of **SQL Databases**
-- - 🗣️I'm currently learning **English**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+- 🗣️I'm currently learning **English**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
