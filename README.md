@@ -1,11 +1,17 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jean0405&label=Profile%20views&color=0e75b6&style=flat" alt="jean0405" /> </p>
 <h1 align="center">Hi 👋, I'm Jean</h1>
 <img src="./Banner.png" width="800">
 <h2 align="center" style="background-color: #00B0B2; color: white; font-weight: bolder; padding: 10px;">ABOUT ME</h2>
+<div align="center" style="margin-top:10px;">
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kjean04)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kjean_0405)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/kjean04)
+
+</div>
 <h4 align="center">🌠 I am a 20yo Colombian young man who is passionate about coding and immersed in Full-Stack development. (Although my favorite is the Back End 😝)</h4>
 
 <p align="center"> ⭐ My focuses are <strong>Javascript</strong>, <strong>Node.js</strong> with <strong>Express</strong> and <strong>SQL Databases</strong>.</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jean0405&label=Profile%20views&color=0e75b6&style=flat" alt="jean0405" /> </p>
 
 - 🌱 I'm deepening my knowledge of **SQL Databases**
 
@@ -16,10 +22,10 @@
 
  <div class="container_container" align="center" style="display:flex; flex-direction:column;">
  <h3 align="center"> Check my streak stats and most used languagues: </h3>
-    <div class="container"style="margin-bottom: 20px;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jean0405&show_icons=true&locale=en&layout=compact" alt="jean0405" />
-    </div>
     <div class="container">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jean0405&theme=dark&hide_border=true"/>
+    </div>
+    <div class="container"style="margin-top: 20px;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jean0405&show_icons=true&locale=en&layout=compact" alt="jean0405" />
     </div>
 </div>
