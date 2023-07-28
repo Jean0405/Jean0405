@@ -1,8 +1,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jean0405&label=Profile%20views&color=0e75b6&style=flat" alt="jean0405" /> </p>
 <h1 align="center">Hi 👋, I'm Jean</h1>
-<img src="./Banner.png" width="800">
-<div align="center" style="margin-top:10px;">
 
+<img src="./Banner.png" width="100%">
+
+<div align="center" style="margin-top:10px;">
+ 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kjean04)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kjean_0405)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjean04/)
