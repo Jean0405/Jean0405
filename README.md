@@ -16,6 +16,8 @@
 
 <p align="center"> ⭐ My focuses are <strong>Javascript</strong>, <strong>Node.js</strong> with <strong>Express</strong> and <strong>SQL Databases</strong>.</p>
 
+- 🚀 I'm a Camper at **CampusLands**
+
 - 🌱 I'm deepening my knowledge of **SQL Databases**
 
 - 🗣️I'm currently learning **English**
