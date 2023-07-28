@@ -23,9 +23,11 @@
  <div class="container_container" align="center" style="display:flex; flex-direction:column;">
  <h3 align="center"> Check my streak stats and most used languagues: </h3>
     <div class="container">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jean0405&theme=dark&hide_border=true"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jean0405&theme=algolia&hide_border=true"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jean0405&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="jean0405" />
     </div>
-    <div class="container"style="margin-top: 20px;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jean0405&show_icons=true&locale=en&layout=compact" alt="jean0405" />
+    <div class="container">
+      <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=jean0405&bg_color=02003D&color=00EEAD&line=00A2EE&point=00EEAD&area=true&hide_border=true"/>
     </div>
+  
 </div>
