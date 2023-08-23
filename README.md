@@ -29,10 +29,6 @@
  <h3 align="center"> Check my streak stats and most used languagues: </h3>
     <div class="container">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jean0405&theme=algolia&hide_border=true"/>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jean0405&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="jean0405" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean0405&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="jean0405" />
     </div>
-    <div class="container">
-      <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=jean0405&bg_color=02003D&color=FFFFFF&line=00A2EE&point=00EEAD&area=true&hide_border=true"/>
-    </div>
-  
 </div>
