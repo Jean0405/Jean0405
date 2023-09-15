@@ -14,11 +14,11 @@
 
 <h4 align="center">🌠 I am a 20yo Colombian young man who is passionate about coding and immersed in Full-Stack development. (Although my favorite is the Back End 😝)</h4>
 
-<p align="center"> ⭐ My focuses are <strong>Javascript</strong>, <strong>Node.js</strong> with <strong>Express</strong> and <strong>SQL Databases</strong>.</p>
+<p align="center"> ⭐ My focuses are <strong>Node.js</strong> with <strong>Express</strong> and <strong>SQL Databases</strong> or <strong>MongoDB</strong>..</p>
 
 - 🚀 I'm a Camper at **CampusLands**
 
-- 🌱 I'm deepening my knowledge of **SQL Databases**
+- 🌱 I'm deepening my knowledge of **SQL Databases** and **MongoDB**
 
 - 🗣️I'm currently learning **English**
 
