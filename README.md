@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jean0405&label=Profile%20views&color=0e75b6&style=flat" alt="jean0405" /> </p>
 <h1 align="center">Hi 👋, I'm Jean</h1>
 
-<img src="./Banner.png" width="100%">
+<img src="./Banner2.png" width="100%">
 
 <div align="center" style="margin-top:10px;">
  
