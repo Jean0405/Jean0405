@@ -12,13 +12,13 @@
 </div>
 <h2 align="center" style="background-color: #00B0B2; color: white; font-weight: bolder; padding: 10px;">ABOUT ME</h2>
 
-<h4 align="center">🌠 I am a 20yo Colombian young man who is passionate about coding and immersed in Full-Stack development. (Although my favorite is the Back End 😝)</h4>
+<h4 align="center">🌠 I am a 22yo Colombian young man who is passionate about coding and immersed in Full-Stack development. (Although my favorite is the Back End 😝)</h4>
 
 <p align="center"> ⭐ My focuses are <strong>Node.js</strong> with <strong>Express</strong> and <strong>SQL Databases</strong> or <strong>MongoDB</strong>..</p>
 
-- 🚀 I'm a Camper at **CampusLands**
+- 🚀 I was a Camper at **CampusLands**
 
-- 🌱 I'm deepening my knowledge of **SQL Databases** and **MongoDB**
+- 🌱 2 years of experiencia as a fullStack developer
 
 - 🗣️I'm currently learning **English**
 
